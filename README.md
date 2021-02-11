@@ -39,3 +39,15 @@ Step 3 - Setting up the CFP
 
 
 Step 3 - Executing a Social Strategy
+ - Create a content calendar 
+  - Example [here](https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/)
+  - Calendar can be broken up into five categories
+    - Date
+    - Tweet Draft
+    - Tags
+    - Engagement Metrics
+    - Additional Notes
+ - Establish goals for the strategy 
+  - Example - "Clearly communicate what the Awesome Meetup is and interact with our followers"
+ - Schedule Tweets during the most active times for your audience
+  - We recommend diversifying the schedule 
