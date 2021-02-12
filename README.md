@@ -36,18 +36,39 @@ Step 3 - Setting up the CFP
   
   
 - Create a Dropbox link for folks to submit their Talks
+  - This way you can download them for the following:
+    -Streaming them on Twitch
+    -Displaying them on the website
 
 
 Step 3 - Executing a Social Strategy
- - Create a content calendar 
-  - Example [here](https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/)
-  - Calendar can be broken up into five categories
-    - Date
-    - Tweet Draft
-    - Tags
-    - Engagement Metrics
-    - Additional Notes
+
+- Establish Audience
+  - Age
+  - Location
+  - Job
+  - Description 
+- Create a content calendar 
+ - Example [here](https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/)
+ - Calendar can be broken up into five categories (Think an excel spread sheet. Ours was in Notion)
+  - Date
+  - Tweet Draft
+  - Tags
+  - Engagement Metrics
+  - Additional Notes
+ 
  - Establish goals for the strategy 
   - Example - "Clearly communicate what the Awesome Meetup is and interact with our followers"
  - Schedule Tweets during the most active times for your audience
   - We recommend diversifying the schedule 
+  
+Step 4 - Day of Meetup
+
+- Do a dry run with coorganizor to make sure audio is properly working
+- If you are using a Mac there is additional software you will need to download ( we used [this](https://billykorando.com/2020/04/14/capturing-desktop-and-zoom-audio-in-obs-on-macos/) )
+- Organize visual assets in scenes for quick transitions
+- Go live!
+- Designate someone as the monitor to interact with the chat
+- Have fun :) 
+- We'll also incorporate a pre/post stream checklist.
+
