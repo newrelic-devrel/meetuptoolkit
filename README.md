@@ -208,8 +208,6 @@ The week before the meetup, speakers should
   - [ ] Share slides with organizers when possible 
 
 
-
-
 The week before the meetup, organizers should
 - [ ] Do a dry run with all co-organizors ensuring
   - [ ] Audio/Video is working properly.
@@ -226,8 +224,8 @@ At the start of the meetup, organizers should:
 - [ ] Introduce your speaker(s)
 - [ ] Familiarize your attendees with the videoconference app
   - [ ] Encourage folks to use the chat to increase engagement/connection between members
-  - [ ] Explain raise hand feature for attendees to ask questions during talks
-  - [ ] Explain procedure for assigning and using breakout rooms
+  - [ ] Explain raise hand feature for attendees to ask questions during talks (If Zoom) 
+  - [ ] Explain procedure for assigning and using breakout rooms (If Using Breakout Rooms)
   
 Before their talk, speakers should:
 - [ ] Shared slides/visuals at the beginning of the session to help attendees follow along in case of any technical difficulties.
