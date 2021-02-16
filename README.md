@@ -158,6 +158,24 @@ Step 3 - Executing a Social Strategy
  - Schedule Tweets during the most active times for your audience
   - We recommend diversifying the schedule 
   
+  
+## Meetup Event Logistics
+- [ ] Pick a Platform/Tool to host your meetup
+
+<details>
+  <summary> ▶️ About Zoom</summary>
+  
+  Recording your meetups and making them available to watch afterwards is going to
+   
+   - Enable the audience that weren't able to participate to watch the talks on-demand
+   - Spread awareness and branding for your meetup through a dedicated YouTube channel
+   - Allow Speakers to review and iterate upon their talks 
+   - Serve as reference for speakers for other meetups/conferences
+   
+</details>
+
+
+
 Step 4 - Day of Meetup
 
 - Do a dry run with coorganizor to make sure audio is properly working
@@ -168,3 +186,27 @@ Step 4 - Day of Meetup
 - Have fun :) 
 - We'll also incorporate a pre/post stream checklist.
 
+
+
+
+The day before the meetup, organizers should
+- [ ] Do a dry run with all co-organizors ensuring
+  - [ ] Audio/Video is working properly.
+  - [ ] Everyone is on the same page
+ 
+
+
+At the start of the meetup, organizers should:
+- [ ] Remind the audience about the Code of Conduct
+- [ ] Introduce themsleves
+- [ ] Welcome and thank the attendees
+- [ ] Share important updates with the group
+- [ ] Review agenda
+- [ ] Introduce your speaker(s)
+- [ ] Familiarize your attendees with the videoconference app
+  - [ ] Encourage folks to use the chat to increase engagement/connection between members
+  - [ ] Explain raise hand feature for attendees to ask questions during talks
+  - [ ] Explain procedure for assigning and using breakout rooms
+  
+  
+ 
