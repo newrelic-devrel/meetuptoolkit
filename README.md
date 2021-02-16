@@ -187,7 +187,7 @@ Step 3 - Executing a Social Strategy
  
 
 
-#### Week Before Meetup
+### Week Before Meetup
 
 The week before the meetup, speakers should
 - [ ] Test their technology in advance
@@ -207,7 +207,7 @@ The week before the meetup, organizers should
   - [ ] Audio/Video is working properly.
   - [ ] Speakers' name, title, and talks are prounounced correctly.
 
-#### Day of Meetup
+### Day of Meetup
 
 At the start of the meetup, organizers should:
 - [ ] Remind the audience about the Code of Conduct
