@@ -136,8 +136,19 @@ This guide will help you get started and provide information on how to run succe
 - [ ] Create a landing page on the website with event
 
 
-### Open the CFP
-- Find a keynote speaker 
+### Finding Speakers
+<details>
+  <summary> How to Find Speakers </summary>
+  
+Speakers is quite possibly the hardest part as they are hard to come up by and they are the heart and soul of your meetup. When you start out fresh with organizing a meetup scene it is crucial to build a roadmap with a schedule for the next 4-6 meetups and secure your speakers ahead of time.
+
+Leverage the people in your organization to produce a speakers line-up, as well as empowering them with public speaking, networking and their developer brand. However, consider meetups that are not made up solely of your own internal speakers and instead strive for meetups that include an internal speaker from your organization with speakers from outside communities or other meetup groups.
+
+</details>
+
+- [ ] Find Speakers
+
+
 - Create a detailed README.md file detailing what you are looking for 
   - Suggested Topics
   - Formatting of the abstract (including word count)
