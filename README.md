@@ -171,17 +171,15 @@ Step 3 - Executing a Social Strategy
    
 </details>
 
+- [ ] Complete [Meetup Agenda](docs/agenda.md)
+
+- [ ] Designate someone to interact and moderate the chat
+- [ ] OBS Checklist [ADD MORE]
+  - [ ] Organize visual assets in scenes for quick transitions
+ 
 
 
-Step 4 - Day of Meetup
-
-- Do a dry run with coorganizor to make sure audio is properly working
-- If you are using a Mac there is additional software you will need to download ( we used [this](https://billykorando.com/2020/04/14/capturing-desktop-and-zoom-audio-in-obs-on-macos/) )
-- Organize visual assets in scenes for quick transitions
-- Go live!
-- Designate someone as the monitor to interact with the chat
-- Have fun :) 
-- We'll also incorporate a pre/post stream checklist.
+#### Day of Meetup
 
 
 
