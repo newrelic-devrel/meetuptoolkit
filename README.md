@@ -63,13 +63,48 @@ This guide will help you get started and provide information on how to run succe
   - [ ] Fill out Meetup topics as tags
   - [ ] Fill out Meetup location  
   
-- [ ] Set up the following with the same handles (for easy marketing abilities)
+
+<details>
+  <summary> ▶️ About Youtube</summary>
+  
+  Recording your meetups and making them available to watch afterwards is going to
+   
+   - Enable the audience that weren't able to participate to watch the talks on-demand
+   - Spread awareness and branding for your meetup through a dedicated YouTube channel
+   - Allow Speakers to review and iterate upon their talks 
+   - Serve as reference for speakers for other meetups/conferences
+   
+</details>
+
+- [ ] Set up Youtube Account
+
+<details>
+  <summary> [NOT FINISHED] About Twitch</summary>
+  
+  Recording your meetups and making them available to watch afterwards is going to
+   
+   
+</details>
+
+- [ ] Set up Twitch Account
+
+
+
+- Spread awareness and branding for your meetup through a dedicated YouTube channel
+
   - Twitter
   - Github
   - Meetup.com
-  - Dev.to
+  - Dev.to  
   - Twitch
-  - Meetup.com
+  
+- [ ] Set up Email Newsletter
+
+- [ ] Establish Social Media Presence
+  - [ ] Twitter
+  - [ ] Facebook
+  
+
 - Set up an email newsletter (some ideas include buttondown.email, mailchimp)
 - *optional* create a 501(c)(3) nonprofit foundation for your meetup. link here -> https://www.thebalancesmb.com/the-pros-and-cons-of-nonprofit-incorporation-2502270
 - Find a co-organizer. We highly recommend having 2 or more organizers for the meetup. 
