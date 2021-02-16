@@ -35,8 +35,11 @@ This guide will help you get started and provide information on how to run succe
 - [ ] Create a Meetup Name
 
 ## Setting up Logistics
+- [ ] Find a co-organizer. <br> We highly recommend having 2 or more organizers for the meetup. 
+
 <details>
   <summary>Purchasing a Domain</summary>
+  
   - Make sure your domain registrar is reliable. We recommend
     - Google Domains
     - Godaddy 
@@ -45,9 +48,10 @@ This guide will help you get started and provide information on how to run succe
     - Etc
   - If the domain you wish to buy is taken, try 
     - Going for another domain extension. In case .com is unavailable, you may opt for others such as .xyz, .net, .org, and many more.
+    
 </details>
 
-- [ ] 💵 Purchase domain for meetup (varys)
+- [ ] 💵 Purchase domain (varys)
 
 <details>
   <summary> About Meetup.com</summary>
@@ -88,26 +92,16 @@ This guide will help you get started and provide information on how to run succe
 
 - [ ] Set up Twitch Account
 
-
-
-- Spread awareness and branding for your meetup through a dedicated YouTube channel
-
-  - Twitter
-  - Github
-  - Meetup.com
-  - Dev.to  
-  - Twitch
+<details>
+  <summary> [NOT FINISHED] Email Newsletter</summary>
   
-- [ ] Set up Email Newsletter
+  Recording your meetups and making them available to watch afterwards is going to
+   
+   
+</details>
 
-- [ ] Establish Social Media Presence
-  - [ ] Twitter
-  - [ ] Facebook
-  
+- [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
 
-- Set up an email newsletter (some ideas include buttondown.email, mailchimp)
-- *optional* create a 501(c)(3) nonprofit foundation for your meetup. link here -> https://www.thebalancesmb.com/the-pros-and-cons-of-nonprofit-incorporation-2502270
-- Find a co-organizer. We highly recommend having 2 or more organizers for the meetup. 
 
 Step 2 - Setting up your FIRST EVENT
 - Find a date and time that would be the best for your audience. 
