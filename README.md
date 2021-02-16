@@ -124,9 +124,9 @@ This guide will help you get started and provide information on how to run succe
 ## Setting up the Event
 - [ ] Pick a date and time
   - [ ] Check for any national or religious holidays
-  - [ ] Check for conflicts with other events targeted at your audience?
+  - [ ] Check for conflicts with competing events targeted at your audience. 
   - [ ] Check for compatability with audience's timezones
-
+  - [ ] Optional: Avoid the first and last day of the working week.
 
 - [ ] Complete [Meetup Agenda](docs/agenda.md)
   - [ ] Designate someone to interact and moderate the chat
