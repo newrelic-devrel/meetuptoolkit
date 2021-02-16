@@ -9,12 +9,12 @@ This guide will help you get started and provide information on how to run succe
 
 <details>
   <summary>How to Scope your Meetup</summary>
-  There are meetups that are very specific, focused around a particular framework or technology, such as Javascript and React, while there are more        general meetups that cater towards aspiring startup founders or Tech in General.
+  There are meetups that are very specific, focused around a particular framework or technology, such as Javascript and React, while there are more        general meetups that cater towards aspiring startup founders or Tech in General. Create a document that will shape the direction of the meetup moving forward. 
 </details>
 
-- [ ] Scope the Meetup
-  - [ ] Who is your target audience?
-  - [ ] What topics do you want to discuss in the meetup?
+- [ ] Create a Meetup Scoping Document
+  - [ ] Define your target audience.
+  - [ ] Determine topics do you want to discuss in the meetup.
 
 <details>
   <summary>Tips for Naming Meetups</summary>
