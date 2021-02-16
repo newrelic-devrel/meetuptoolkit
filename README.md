@@ -27,22 +27,35 @@ This guide will help you get started and provide information on how to run succe
 - [ ] Come up with a Meetup Name
 
 ## Setting up Logistics
+<details>
+  <summary>Purchasing a Domain</summary>
+  - Make sure your domain registrar is reliable. We recommend
+    - Google Domains
+    - Godaddy 
+    - Hover
+    - NameCheap
+    - Etc
+  - If the domain you wish to buy is taken, try 
+    - Going for another domain extension. In case .com is unavailable, you may opt for others such as .xyz, .net, .org, and many more.
+
+</details>
+
 - [ ] 💵 Purchase domain for meetup (varys)
+
+<details>
+  <summary> About Meetup.com</summary>
+  - Meetup.com is the wildly adopted platform for managing & scheduling meetups.
+  - The platform can suggest your meetup on your behalf to site patrons in your general location. 
+  - Organizing on Meetup.com can quickly increase the membership of your organization. 
+</details>
+
 - [ ] 💵 Purchase Organizer Account on Meetup.com (~17/month)
 - [ ] Create a Meetup on Meetup.com
   - [ ] Fill out Meetup group title
   - [ ] Fill out Meetup cover image
   - [ ] Fill out Meetup topics as tags
   - [ ] Fill out Meetup location  
-
-<details>
-  <summary> About Meetup.com</summary>
-  Meetup.com is the wildly adopted platform for managing & scheduling meetups.
-  The platform can suggest your meetup on your behalf to site patrons in your general location. 
-  Organizing on Meetup.com can quickly increase the membership of your organization. 
-</details>
-
-
+  
 - [ ] Set up the following with the same handles (for easy marketing abilities)
   - Twitter
   - Github
