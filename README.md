@@ -102,6 +102,17 @@ This guide will help you get started and provide information on how to run succe
    
 </details>
 - [ ] Create a Email Newsletter
+
+<details>
+  <summary>Creating a Landing Page</summary>
+  
+  - Make sure the landing page has 
+    - Title
+    - Link to Mailing List
+    - Objective of your meetup
+
+</details>
+
 - [ ] Set up your landing page
 
 - [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
