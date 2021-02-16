@@ -233,8 +233,8 @@ Before their talk, speakers should:
  ### Day After the Meetup
  
  - [ ] Send [thank you email](emails/thankyou.md) to
-  - [ ] Sponsors
-  - [ ] Co-organizers
-  - [ ] Volunteers
-  - [ ] Speakers
-  - [ ] Anyone else who helped with the meetup.
+    - [ ] Sponsors
+    - [ ] Co-organizers
+    - [ ] Volunteers
+    - [ ] Speakers
+    - [ ] Anyone else who helped with the meetup.
