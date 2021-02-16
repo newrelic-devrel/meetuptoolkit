@@ -212,6 +212,8 @@ The week before the meetup, organizers should
 - [ ] Do a dry run with all co-organizors ensuring
   - [ ] Audio/Video is working properly.
   - [ ] Speakers' name, title, and talks are prounounced correctly.
+- [ ] Finalize the Social Plan
+- [ ] Create [Survey](docs/survey.md) (Google Forms/Airtable/Etc)
 
 ### Day of Meetup
 
@@ -238,3 +240,7 @@ Before their talk, speakers should:
     - [ ] Volunteers
     - [ ] Speakers
     - [ ] Anyone else who helped with the meetup.
+    
+### Week After the Meetup
+ 
+ - [ ] Set up Meeting between organizers to discuss feedback from survey and plan next event.
