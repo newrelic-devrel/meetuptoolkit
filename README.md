@@ -1,7 +1,32 @@
-# meetuptoolkit
+# Meetup Toolkit v0.0
 
-Step 1 - Set up your MEETUP
-- Create name of meetup
+Do you want to start a meetup group but you don't know exactly where to start or what to do?
+
+This guide will help you get started and provide information on how to run successful meetups. Please open a pull request if you want to add or edit information in this guide!
+
+## Define your Meetup
+### What is your meetup all about?
+
+<details>
+  <summary>How to Scope your Meetup</summary>
+  There are meetups that are very specific, focused around a particular framework or technology, such as Javascript and React, while there are more        general meetups that cater towards aspiring startup founders or Tech in General.
+</details>
+
+- [ ] Scope the Meetup
+  - [ ] Who is your target audience?
+  - [ ] What topics do you want to discuss in the meetup?
+
+<details>
+  <summary>Tips for Naming Meetups</summary>
+
+  - Meetup Group titles are important, but not as important as the meetup titles themselves.
+  - Short Meetup Group titles are encouraged
+  - Avoid using overly generic Meetup titles
+</details>
+
+- [ ] Come up with a Meetup Name
+
+## Set up your MEETUP
 - Buy domain of meetup
 - Set up the following with the same handles (for easy marketing abilities)
   - Twitter
