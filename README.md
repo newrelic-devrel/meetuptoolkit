@@ -5,7 +5,6 @@ Do you want to start a meetup group but you don't know exactly where to start or
 This guide will help you get started and provide information on how to run successful meetups. Please open a pull request if you want to add or edit information in this guide!
 
 ## Define your Meetup
-### What is your meetup all about?
 
 <details>
   <summary>How to Scope your Meetup</summary>
@@ -18,13 +17,22 @@ This guide will help you get started and provide information on how to run succe
 
 <details>
   <summary>Tips for Naming Meetups</summary>
-
+  
   - Meetup Group titles are important, but not as important as the meetup titles themselves.
   - Short Meetup Group titles are encouraged
   - Avoid using overly generic Meetup titles
+
+  - It's important that: 
+    - [ ] Domain is Availiable (either .com or another ending)
+    - [ ] Twitter Handle is Availiable
+    - [ ] Instagram Handle is Availiable
+    - [ ] Dev.to Handle is Availiable
+    - [ ] Twitch Handle is Availiable
+    - [ ] Github Handle is Availiable
+  
 </details>
 
-- [ ] Come up with a Meetup Name
+- [ ] Create a Meetup Name
 
 ## Setting up Logistics
 <details>
@@ -37,7 +45,6 @@ This guide will help you get started and provide information on how to run succe
     - Etc
   - If the domain you wish to buy is taken, try 
     - Going for another domain extension. In case .com is unavailable, you may opt for others such as .xyz, .net, .org, and many more.
-
 </details>
 
 - [ ] 💵 Purchase domain for meetup (varys)
@@ -104,10 +111,10 @@ Step 3 - Executing a Social Strategy
   - Description 
 - Create a content calendar 
  - Example [here](https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/)
- - Calendar can be broken up into five categories (Think an excel spread sheet. Ours was in Notion)
+- Calendar can be broken up into five categories (Think an excel spread sheet. Ours was in Notion)
   - Date
   - Tweet Draft
-  - Tags
+  - Tags 
   - Engagement Metrics
   - Additional Notes
  
