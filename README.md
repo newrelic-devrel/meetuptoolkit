@@ -55,9 +55,11 @@ This guide will help you get started and provide information on how to run succe
 
 <details>
   <summary> About Meetup.com</summary>
+  
   - Meetup.com is the wildly adopted platform for managing & scheduling meetups.
   - The platform can suggest your meetup on your behalf to site patrons in your general location. 
   - Organizing on Meetup.com can quickly increase the membership of your organization. 
+  
 </details>
 
 - [ ] 💵 Purchase Organizer Account on Meetup.com (~17/month)
@@ -99,6 +101,7 @@ This guide will help you get started and provide information on how to run succe
    
    
 </details>
+- [ ] Create a Email Newsletter
 
 - [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
 
