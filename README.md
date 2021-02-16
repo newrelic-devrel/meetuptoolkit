@@ -171,6 +171,7 @@ Step 3 - Executing a Social Strategy
    
 </details>
 
+
 - [ ] Complete [Meetup Agenda](docs/agenda.md)
   - [ ] Designate someone to interact and moderate the chat
   - [ ] Finalize Speaker Lineup
@@ -205,9 +206,6 @@ The week before the meetup, organizers should
 - [ ] Do a dry run with all co-organizors ensuring
   - [ ] Audio/Video is working properly.
   - [ ] Speakers' name, title, and talks are prounounced correctly.
-
-  
- 
 
 #### Day of Meetup
 
