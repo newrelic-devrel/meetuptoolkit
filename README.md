@@ -172,24 +172,44 @@ Step 3 - Executing a Social Strategy
 </details>
 
 - [ ] Complete [Meetup Agenda](docs/agenda.md)
+  - [ ] Designate someone to interact and moderate the chat
+  - [ ] Finalize Speaker Lineup
+  - [ ] ADD MORE
 
-- [ ] Designate someone to interact and moderate the chat
+
+
+
+
+
 - [ ] OBS Checklist [ADD MORE]
   - [ ] Organize visual assets in scenes for quick transitions
  
 
 
-#### Day of Meetup
+#### Week Before Meetup
+
+The week before the meetup, speakers should
+- [ ] Test their technology in advance
+  - [ ] Do a Dry Run of Demos (if any)
+  - [ ] Check Zoom + A/V Setup
+- [ ] Prepare backup headphones
+- [ ] Have a phone available in case they need to dial in
+- [ ] Have created slides or visuals to supplement the talk
+  - [ ] Use large, clear to make talk more accessible
+  - [ ] Share slides with organizers when possible 
 
 
 
 
-The day before the meetup, organizers should
+The week before the meetup, organizers should
 - [ ] Do a dry run with all co-organizors ensuring
   - [ ] Audio/Video is working properly.
-  - [ ] Everyone is on the same page
+  - [ ] Speakers' name, title, and talks are prounounced correctly.
+
+  
  
 
+#### Day of Meetup
 
 At the start of the meetup, organizers should:
 - [ ] Remind the audience about the Code of Conduct
@@ -203,5 +223,6 @@ At the start of the meetup, organizers should:
   - [ ] Explain raise hand feature for attendees to ask questions during talks
   - [ ] Explain procedure for assigning and using breakout rooms
   
-  
+Before their talk, speakers should:
+- [ ] Shared slides/visuals at the beginning of the session to help attendees follow along in case of any technical difficulties.
  
