@@ -167,33 +167,14 @@ Leverage the people in your organization to produce a speakers line-up, as well 
     -Streaming them on Twitch
     -Displaying them on the website
 
-
-
-
-
 - [ ] OBS Checklist [ADD MORE]
   - [ ] Organize visual assets in scenes for quick transitions
  
+- [ ] Create a Content Calendar
+  - [ ] Establish Target Audience
+  - [ ] Write Social Media posts Promoting the Event
+  - [ ] Schedule Social Media posts
 
-### Create a Social Strategy
-- Establish Audience
-  - Age
-  - Location
-  - Job
-  - Description 
-- Create a content calendar 
- - Example [here](https://blog.hootsuite.com/how-to-create-a-social-media-content-calendar/)
-- Calendar can be broken up into five categories (Think an excel spread sheet. Ours was in Notion)
-  - Date
-  - Tweet Draft
-  - Tags 
-  - Engagement Metrics
-  - Additional Notes
- 
- - Establish goals for the strategy 
-  - Example - "Clearly communicate what the Awesome Meetup is and interact with our followers"
- - Schedule Tweets during the most active times for your audience
-  - We recommend diversifying the schedule 
   
 ### Week Before Meetup
 
@@ -240,7 +221,11 @@ Before their talk, speakers should:
     - [ ] Volunteers
     - [ ] Speakers
     - [ ] Anyone else who helped with the meetup.
-    
+- [ ] Upload meetup recorded videos to YouTube
+- [ ] Upload videos/pictures from the meetup to social media
+  - [ ] Upload Images to Twitter
+  - [ ] Upload Images to Instagram
+  
 ### Week After the Meetup
  - [ ] Fill out [Retrospective](docs/retro.md)
  - [ ] Set up Retrospective Meeting with Co-Organizers
