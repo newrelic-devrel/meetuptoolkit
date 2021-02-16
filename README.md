@@ -116,7 +116,9 @@ This guide will help you get started and provide information on how to run succe
 - [ ] Set up your landing page
 
 - [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
-  
+## Pick a Meetup Type
+- [ ] Fully Twitch [ADD STUFF DANNY]
+
 ## Meetup Event Logistics
 - [ ] Pick a Platform/Tool to host your meetup
 
