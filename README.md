@@ -26,14 +26,30 @@ This guide will help you get started and provide information on how to run succe
 
 - [ ] Come up with a Meetup Name
 
-## Set up your MEETUP
-- Buy domain of meetup
-- Set up the following with the same handles (for easy marketing abilities)
+## Setting up Logistics
+- [ ] 💵 Purchase domain for meetup (varys)
+- [ ] 💵 Purchase Organizer Account on Meetup.com (~17/month)
+- [ ] Create a Meetup on Meetup.com
+  - [ ] Fill out Meetup group title
+  - [ ] Fill out Meetup cover image
+  - [ ] Fill out Meetup topics as tags
+  - [ ] Fill out Meetup location  
+
+<details>
+  <summary> About Meetup.com</summary>
+  Meetup.com is the wildly adopted platform for managing & scheduling meetups.
+  The platform can suggest your meetup on your behalf to site patrons in your general location. 
+  Organizing on Meetup.com can quickly increase the membership of your organization. 
+</details>
+
+
+- [ ] Set up the following with the same handles (for easy marketing abilities)
   - Twitter
   - Github
   - Meetup.com
   - Dev.to
   - Twitch
+  - Meetup.com
 - Set up an email newsletter (some ideas include buttondown.email, mailchimp)
 - *optional* create a 501(c)(3) nonprofit foundation for your meetup. link here -> https://www.thebalancesmb.com/the-pros-and-cons-of-nonprofit-incorporation-2502270
 - Find a co-organizer. We highly recommend having 2 or more organizers for the meetup. 
