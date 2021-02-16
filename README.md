@@ -242,5 +242,5 @@ Before their talk, speakers should:
     - [ ] Anyone else who helped with the meetup.
     
 ### Week After the Meetup
- 
- - [ ] Set up Meeting between organizers to discuss feedback from survey and plan next event.
+ - [ ] Fill out [Retrospective](docs/retro.md)
+ - [ ] Set up Retrospective Meeting with Co-Organizers
