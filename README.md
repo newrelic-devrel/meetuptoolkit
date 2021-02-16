@@ -230,3 +230,11 @@ At the start of the meetup, organizers should:
 Before their talk, speakers should:
 - [ ] Shared slides/visuals at the beginning of the session to help attendees follow along in case of any technical difficulties.
  
+ ### Day After the Meetup
+ 
+ - [ ] Send [thank you email](emails/thankyou.md) to
+  - [ ] Sponsors
+  - [ ] Co-organizers
+  - [ ] Volunteers
+  - [ ] Speakers
+  - [ ] Anyone else who helped with the meetup.
