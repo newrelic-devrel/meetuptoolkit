@@ -102,18 +102,41 @@ This guide will help you get started and provide information on how to run succe
    
 </details>
 - [ ] Create a Email Newsletter
+- [ ] Set up your landing page
 
 - [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
+  
+## Meetup Event Logistics
+- [ ] Pick a Platform/Tool to host your meetup
+
+<details>
+  <summary> ▶️ About Zoom</summary>
+  
+  Recording your meetups and making them available to watch afterwards is going to
+   
+   - Enable the audience that weren't able to participate to watch the talks on-demand
+   - Spread awareness and branding for your meetup through a dedicated YouTube channel
+   - Allow Speakers to review and iterate upon their talks 
+   - Serve as reference for speakers for other meetups/conferences
+   
+</details>
+
+## Setting up the Event
+- [ ] Pick a date and time
+  - [ ] Check for any national or religious holidays
+  - [ ] Check for conflicts with other events targeted at your audience?
+  - [ ] Check for compatability with audience's timezones
 
 
-Step 2 - Setting up your FIRST EVENT
-- Find a date and time that would be the best for your audience. 
-Make sure to check for any national or religious holidays. Make sure to be inclusive of timezones. 
-- Set up your landing page. If possible, use the language/stack relevant to your meetup to construct your site. 
-- Install Livestreaming Software (Streamlabs OBS/ Streamyard/ OBS)
+- [ ] Complete [Meetup Agenda](docs/agenda.md)
+  - [ ] Designate someone to interact and moderate the chat
+  - [ ] Finalize Speaker Lineup
+  - [ ] ADD MORE
+
+- [ ] Create a landing page on the website with event
 
 
-Step 3 - Setting up the CFP
+### Open the CFP
 - Find a keynote speaker 
 - Create a detailed README.md file detailing what you are looking for 
   - Suggested Topics
@@ -134,8 +157,14 @@ Step 3 - Setting up the CFP
     -Displaying them on the website
 
 
-Step 3 - Executing a Social Strategy
 
+
+
+- [ ] OBS Checklist [ADD MORE]
+  - [ ] Organize visual assets in scenes for quick transitions
+ 
+
+### Create a Social Strategy
 - Establish Audience
   - Age
   - Location
@@ -155,38 +184,6 @@ Step 3 - Executing a Social Strategy
  - Schedule Tweets during the most active times for your audience
   - We recommend diversifying the schedule 
   
-  
-## Meetup Event Logistics
-- [ ] Pick a Platform/Tool to host your meetup
-
-<details>
-  <summary> ▶️ About Zoom</summary>
-  
-  Recording your meetups and making them available to watch afterwards is going to
-   
-   - Enable the audience that weren't able to participate to watch the talks on-demand
-   - Spread awareness and branding for your meetup through a dedicated YouTube channel
-   - Allow Speakers to review and iterate upon their talks 
-   - Serve as reference for speakers for other meetups/conferences
-   
-</details>
-
-
-- [ ] Complete [Meetup Agenda](docs/agenda.md)
-  - [ ] Designate someone to interact and moderate the chat
-  - [ ] Finalize Speaker Lineup
-  - [ ] ADD MORE
-
-
-
-
-
-
-- [ ] OBS Checklist [ADD MORE]
-  - [ ] Organize visual assets in scenes for quick transitions
- 
-
-
 ### Week Before Meetup
 
 The week before the meetup, speakers should
