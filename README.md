@@ -204,9 +204,9 @@ At the start of the meetup, organizers should:
 - [ ] Welcome and thank the attendees
 - [ ] Share important updates with the group
 - [ ] Review agenda
-- [ ] Introduce your speaker(s)
-- [ ] Familiarize your attendees with the videoconference app
-  - [ ] Encourage folks to use the chat to increase engagement/connection between members
+- [ ] Introduce speaker(s)
+- [ ] Familiarize attendees with the videoconference app
+  - [ ] Encourage attendees to use the chat to increase engagement/connection between members
   - [ ] Explain raise hand feature for attendees to ask questions during talks (If Zoom) 
   - [ ] Explain procedure for assigning and using breakout rooms (If Using Breakout Rooms)
   
