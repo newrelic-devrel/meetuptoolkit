@@ -205,6 +205,12 @@ Leverage the people in your organization to produce a speakers line-up, as well 
 
 - [ ] OBS Checklist [ADD MORE]
   - [ ] Organize visual assets in scenes for quick transitions
+  - [ ] Organize sources for each corresponding scene
+  - [ ] We suggest breaking scenes into:
+    - Stream starting soon
+    - Screen + Webcam + Guest
+    - Be right back soon
+  - [ ] If you are using a mac follow this [blog](https://billykorando.com/2020/04/14/capturing-desktop-and-zoom-audio-in-obs-on-macos/) to get your desktop audio 
  
 - [ ] Create a Content Calendar
   - [ ] Establish Target Audience
