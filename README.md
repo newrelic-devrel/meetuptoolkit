@@ -8,12 +8,12 @@ This guide will help you get started and provide information on how to run succe
 
 <details>
   <summary>How to Scope your Meetup</summary>
-  There are meetups that are very specific, focused around a particular framework or technology, such as Javascript and React, while there are more        general meetups that cater towards aspiring startup founders or Tech in General. Create a document that will shape the direction of the meetup moving forward. 
+  There are meetups that are very specific, focused around a particular framework or technology, such as Javascript and React, while there are more        general meetups that cater towards aspiring startup founders, or tech in general. Create a document that will shape the direction of the meetup moving forward. 
 </details>
 
 - [ ] Create a Meetup Scoping Document
   - [ ] Define your target audience.
-  - [ ] Determine topics do you want to discuss in the meetup.
+  - [ ] Determine topics you want to discuss in the meetup.
 
 <details>
   <summary>Tips for Naming Meetups</summary>
@@ -23,12 +23,12 @@ This guide will help you get started and provide information on how to run succe
   - Avoid using overly generic Meetup titles
 
   - It's important that: 
-    - [ ] Domain is Availiable (either .com or another ending)
-    - [ ] Twitter Handle is Availiable
-    - [ ] Instagram Handle is Availiable
-    - [ ] Dev.to Handle is Availiable
-    - [ ] Twitch Handle is Availiable
-    - [ ] Github Handle is Availiable
+    - [ ] Domain is availiable (either .com or another ending)
+    - [ ] Twitter handle is availiable
+    - [ ] Instagram handle is availiable
+    - [ ] Dev.to handle is availiable
+    - [ ] Twitch handle is availiable
+    - [ ] Github handle is availiable
   
 </details>
 
@@ -40,14 +40,14 @@ This guide will help you get started and provide information on how to run succe
 <details>
   <summary>Purchasing a Domain</summary>
   
-  - Make sure your domain registrar is reliable. We recommend
+  - Make sure your domain registrar is reliable. We recommend:
     - Google Domains
     - Godaddy 
     - Hover
     - NameCheap
     - Etc
-  - If the domain you wish to buy is taken, try 
-    - Going for another domain extension. In case .com is unavailable, you may opt for others such as .xyz, .net, .org, and many more.
+  - If the domain you wish to buy is taken:
+    - Go for another domain extension. In case .com is unavailable, you may opt for others such as .xyz, .net, .org, and many more.
     
 </details>
 
@@ -85,9 +85,14 @@ This guide will help you get started and provide information on how to run succe
 - [ ] Set up Youtube Account
 
 <details>
-  <summary> [NOT FINISHED] About Twitch</summary>
+  <summary> About Twitch</summary>
   
-  Recording your meetups and making them available to watch afterwards is going to
+  Presenting your meetup live via the Twitch platform will
+  
+  - Create an event that has more engagement through the chat feature
+  - Follow the current trend of many online activities being on the platform
+  - Allow another avenue for awareness and views
+    - Stream the meetup on Twitch then download the videos for YouTube later
    
    
 </details>
@@ -117,7 +122,25 @@ This guide will help you get started and provide information on how to run succe
 
 - [ ] *optional* create a 501(c)(3) nonprofit foundation for your meetup
 ## Pick a Meetup Type
-- [ ] Fully Twitch [ADD STUFF DANNY]
+- [ ] Fully Twitch 
+<details>
+  <summary> ▶️ Pros and Cons of Twitch</summary>
+  
+  Pros
+   
+   - Can have the speakers record their talks prior so you just press play
+    - Speakers can engage with the chat while their talk is on screen
+   - Twitch is very "in" right now
+   - Creates another personal brand and avenue for engagement 
+   - People can watch the talks at a later time
+
+  Cons
+  
+   - Large learning curve to pick up the streaming technologies
+   - To be percieved as a "professional" channel the equipment is very expensive
+   - Macs don't work well with the software currently on the market (however, still possible) 
+   
+</details>
 
 ## Meetup Event Logistics
 - [ ] Pick a Platform/Tool to host your meetup
